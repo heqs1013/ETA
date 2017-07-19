@@ -1,0 +1,8 @@
+1 2,link_0 3,link_2
+2 1,link_1 3,link_4 4,link_6
+3 1,link_3 2,link_5 5,link_8 6,link_10
+4 2,link_7 5,link_12 9,link_16
+5 3,link_9 4,link_13 6,link_14 7,link_18 
+6 3,link_11 5,link_15 7,link_20 
+7 5,link_19 6,link_21 8,link_22
+8 4,link_17 7,link_23

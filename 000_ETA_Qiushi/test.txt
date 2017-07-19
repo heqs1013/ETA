@@ -1,0 +1,10 @@
+1 2,link1_2 3,link1_3 4,link1_4
+2 5,link2_5 6,link2_6
+3 5,link3_5 6,link3_6
+4 5,link4_5 6,link4_6
+5 7,link5_7 8,link5_8
+6 8,link6_8 9,link6_9
+7 10,link7_10
+8 10,link8_10
+9 10,link9_10
+10
